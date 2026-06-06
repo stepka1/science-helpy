@@ -8,7 +8,7 @@ from pydantic_settings import BaseSettings
 class Settings(BaseSettings):
     """Настройки приложения."""
 
-    APP_NAME: str = "Vaiboton API"
+    APP_NAME: str = "Science Helpy API"
     APP_VERSION: str = "1.0.0"
     DEBUG: bool = False
 
@@ -20,7 +20,7 @@ class Settings(BaseSettings):
     DB_PORT: int = 5432
     DB_USER: str = "postgres"
     DB_PASSWORD: str = "postgres"
-    DB_NAME: str = "vaiboton"
+    DB_NAME: str = "science_helpy"
 
     SECRET_KEY: str = "your-secret-key-change-in-production"
     ALGORITHM: str = "HS256"
