@@ -13,9 +13,11 @@
 
 | Формат | Ссылка |
 |--------|--------|
+| Полное видео | [`docs/demo/demo.mp4`](docs/demo/demo.mp4) |
+| Презентация | [`docs/demo/presentation.pptx`](docs/demo/presentation.pptx) |
 | CLI | [Google Drive](https://drive.google.com/file/d/15UfV33nzn90dD-_NxCi10xk7A5us9KF7/view?usp=drive_link) |
 | Frontend | [Google Drive](https://drive.google.com/drive/folders/1T3pY8CQugVzKjKJN6LicxbuxGhLUjd9B?usp=sharing) |
-| Материалы в репозитории | [`docs/`](docs/) |
+| Все материалы | [`docs/`](docs/) |
 
 
 Единый репозиторий сервиса для поиска научных статей на arXiv, скачивания исходных материалов, парсинга содержимого, LLM-оценки статьи и генерации обзорного текста. Проект состоит из React frontend, FastAPI backend и отдельного модуля `agents_system`, в котором живут мультиагентные сценарии анализа.

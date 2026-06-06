@@ -60,9 +60,6 @@ frontend/dist/
 **/extracted_images/
 **/temp/
 
-# Large local media (use docs/ or GitHub Releases instead)
-Видео.mp4
-
 # OS
 .DS_Store
 Thumbs.db
