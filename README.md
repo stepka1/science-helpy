@@ -2,6 +2,8 @@
 
 > Мультиагентный сервис для поиска, скачивания и LLM-анализа научных статей на arXiv
 
+**Авторы:** Степовой Кирилл, Тугов Денис
+
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)](https://react.dev/)
